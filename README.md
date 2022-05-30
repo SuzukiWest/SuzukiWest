@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuzukiWest
+- 👋 Hi, my name is Jordan
 - 👀 I’m interested in Full stack development, Data science, and Learning new things
 - 🌱 I’m currently learning React, GraphQL, Node.JS, Raspberry Pi development
 - 💞️ I’m looking to collaborate on machine learning projects or website development
