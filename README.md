@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jordan
-- 👀 I’m interested in Full stack development, Data science, and Learning new things
+- 👀 I’m interested in Full stack development, Data science, and Learning technologies
 - 🌱 I’m currently learning React, GraphQL, Node.JS, Raspberry Pi development
 - 💞️ I’m looking to collaborate on machine learning projects or website development
 - 📫 How to reach me jordan.suzuki2021@gmail.com
